@@ -7,7 +7,10 @@ It is a blog site where developers can publish their blog posts and comment on o
 
 ## Installation
 
-Download the repository and install.
+Visit the link below and click around to navigate the site.
+
+https://afternoon-taiga-91616-0653627f71ab.herokuapp.com/
+![alt text](./Assets/images/Screenshot%202024-02-06%20185643.png)
 
 ## Credits
 
